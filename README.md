@@ -15,10 +15,14 @@ So you wanna chat?! Maybe learn more about my work? Yeah I'll welcome it~~ These
 <p></p>
 
 
-💗<a href= "https://www.linkedin.com/in/mafermafer/">LinkedIn</a>
-💛<a href= "https://www.mariafernanda.space/">Art Portfolio</a>
-💗<a href= "https://maria-fernanda.itch.io/">Itch.io</a>
-💛<a href= "https://vimeo.com/mariafernandaa">Vimeo</a>
+💗<a href= "https://www.linkedin.com/in/mafermafer/">LinkedIn</a> <p></p>
+
+💛<a href= "https://www.mariafernanda.space/">Art Portfolio</a> <p></p>
+
+💗<a href= "https://maria-fernanda.itch.io/">Itch.io</a> <p></p>
+
+💛<a href= "https://vimeo.com/mariafernandaa">Vimeo</a> <p></p>
+
 
 
 <!--- 🌸 I’m currently working on creating my own portfolio site.
