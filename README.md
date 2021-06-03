@@ -5,6 +5,13 @@ My name is María Fernanda Hernández and I'm a fullstack software engineer~ I'm
 <p></p>
 <p></p>
 
+#### 📚 Tech Stack
+<ul>
+<li>Tech: Node.Js, Javascript, React, Redux, Git, Express, RESTful API, HTML5, Tone.js, PostgresSQL, Sockets.io, Heroku, C#, CSS, Premiere, Mocha, Chai, JQuery, Flatted, SweetAlert
+<li>Languages: English, Spanish, French (all fluent), Japanese (beginner)
+<li>Art: Maya with Arnold Renderer, Unity Engine, Realflow, Adobe After Effects, Premiere Pro, Photoshop, Blender, Lens Studio
+</ul>
+
 #### ⛷ Current Endeavors
 These days I am studying algorithms, creating my own portfolio site, learning the Three.js library, and looking for jobs 👀
 <p></p>
@@ -15,15 +22,15 @@ So you wanna chat?! Maybe learn more about my work? Yeah I'll welcome it~~ These
 <p></p>
 
 
-💗<a href= "https://www.linkedin.com/in/mafermafer/">LinkedIn</a> <p></p>
+💗<a href= "https://www.linkedin.com/in/mafermafer/">LinkedIn </a>
+💛<a href= "https://www.mariafernanda.space/">Art Portfolio </a>
+💗<a href= "https://maria-fernanda.itch.io/">Itch.io </a>
+💛<a href= "https://vimeo.com/mariafernandaa">Vimeo </a>
+💗<a href= "mariafernanda.space@gmail.com">Email </a>
 
-💛<a href= "https://www.mariafernanda.space/">Art Portfolio</a> <p></p>
+#### ⚔️ Past Projects
 
-💗<a href= "https://maria-fernanda.itch.io/">Itch.io</a> <p></p>
 
-💛<a href= "https://vimeo.com/mariafernandaa">Vimeo</a> <p></p>
-
-💗<a href= "mariafernanda.space@gmail.com">Email</a> <p></p>
 
 <!--- 🌸 I’m currently working on creating my own portfolio site.
 - 🌱 I’m currently learning ...
