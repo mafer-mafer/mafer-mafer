@@ -23,7 +23,7 @@ So you wanna chat?! Maybe learn more about my work? Yeah I'll welcome it~~ These
 
 💛<a href= "https://vimeo.com/mariafernandaa">Vimeo</a> <p></p>
 
-💗Email: mariafernanda.space@gmail.com
+💗<a href= "mariafernanda.space@gmail.com">Email</a> <p></p>
 
 <!--- 🌸 I’m currently working on creating my own portfolio site.
 - 🌱 I’m currently learning ...
