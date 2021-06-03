@@ -21,7 +21,7 @@ These days I am studying algorithms, creating my own portfolio site, learning th
 <ul>
 <li>
 <a href= "https://github.com/PIKACHU-PACK/synth-city">SynthCity</a>- a multiplayer collaborative music-making game.</li>
-<li><a href= "https://maria-fernanda.itch.io/am-i-home">am i hOME?</a>- a first person 3D game about experiences related to the Alice in Wonderland Syndrome.</li>
+<li><a href= "https://maria-fernanda.itch.io/am-i-home">am i hOME?</a>- a first person 3D exploration game relating to the Alice in Wonderland Syndrome.</li>
 <li><a href= "https://github.com/sweet-dream-team/grace-shopper">Dreamporium</a>- an eCommerce website.</li>
 </ul>
 
