@@ -30,7 +30,7 @@ So you wanna chat?! Maybe learn more about my work? Yeah I'll welcome it~~ These
 <p></p>
 
 💗<a href= "https://www.linkedin.com/in/mafermafer/">LinkedIn </a>
-💛<a href= "https://www.mariafernanda.space/">Art Portfolio </a>
+💛<a href= "https://www.mariafernanda.space/">Artist Portfolio </a>
 💗<a href= "https://maria-fernanda.itch.io/">Itch.io </a>
 💛<a href= "https://vimeo.com/mariafernandaa">Vimeo </a>
 💗<a href= "mariafernanda.space@gmail.com">Email </a>
