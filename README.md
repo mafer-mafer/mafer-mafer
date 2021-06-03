@@ -5,11 +5,11 @@ My name is María Fernanda Hernández and I'm a fullstack software engineer~ I'm
 <p></p>
 <p></p>
 
-#### 📚 Tech Stack
+#### 📚 Personal Knowldge / Tech Stack
 <ul>
 <li>Tech: Node.Js, Javascript, React, Redux, Git, Express, RESTful API, HTML5, Tone.js, PostgresSQL, Sockets.io, Heroku, C#, CSS, Premiere, Mocha, Chai, JQuery, Flatted, SweetAlert
-<li>Languages: English, Spanish, French (all fluent), Japanese (beginner)
-<li>Art: Maya with Arnold Renderer, Unity Engine, Realflow, Adobe After Effects, Premiere Pro, Photoshop, Blender, Lens Studio
+<li>Languages: English, Spanish, French (all three fluent), Japanese (beginner)
+<li>Art: Maya with Arnold Renderer, Unity Engine, Realflow, Adobe After Effects, Premiere Pro, Photoshop, Blender, Lens Studio, Textiles (weaving, felting, stitching), Oil and Acrylic Painting
 </ul>
 
 #### ⛷ Current Endeavors
@@ -17,10 +17,15 @@ These days I am studying algorithms, creating my own portfolio site, learning th
 <p></p>
 <p></p>
 
+#### ⚔️ Past Projects
+<ul>
+<li>
+<a href= "https://github.com/PIKACHU-PACK/synth-city">SynthCity</a> is a multiplayer collaborative music-making game.</li>
+</ul>
+
 #### 💌 Connect or Reach Out to Me
 So you wanna chat?! Maybe learn more about my work? Yeah I'll welcome it~~ These are some of the spots:
 <p></p>
-
 
 💗<a href= "https://www.linkedin.com/in/mafermafer/">LinkedIn </a>
 💛<a href= "https://www.mariafernanda.space/">Art Portfolio </a>
@@ -28,7 +33,6 @@ So you wanna chat?! Maybe learn more about my work? Yeah I'll welcome it~~ These
 💛<a href= "https://vimeo.com/mariafernandaa">Vimeo </a>
 💗<a href= "mariafernanda.space@gmail.com">Email </a>
 
-#### ⚔️ Past Projects
 
 
 
