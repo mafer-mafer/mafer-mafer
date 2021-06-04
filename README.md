@@ -9,7 +9,7 @@ My name is María Fernanda Hernández and I'm a fullstack software engineer~ I'm
 <ul>
 <li>Tech: Node.Js, Javascript, React, Redux, Git, Express, RESTful API, HTML5, Tone.js, PostgresSQL, Sockets.io, Heroku, C#, CSS, Premiere, Mocha, Chai, JQuery, Flatted, SweetAlert
 <li>Languages: English, Spanish, French (all three fluent), Japanese (beginner)
-<li>Art: Maya with Arnold Renderer, Unity Engine, Realflow, Adobe After Effects, Premiere Pro, Photoshop, Blender, Lens Studio, Textiles (weaving, felting, stitching), Oil and Acrylic Painting
+<li>Art: Maya with Arnold Renderer, Unity Engine, Realflow, Adobe After Effects, Premiere Pro, Photoshop, Blender, Lens Studio, Textiles, Painting
 </ul>
 
 #### ⛷ Current Endeavors
