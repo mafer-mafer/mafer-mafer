@@ -13,7 +13,7 @@ My name is María Fernanda Hernández and I'm a fullstack software engineer~ I'm
 </ul>
 
 #### ⛷ Current Endeavors
-These days I am studying algorithms, creating my own portfolio site, and learning the Three.js library.
+These days I am studying algorithms, creating a small App, and learning the Three.js library.
 <p></p>
 <p></p>
 
