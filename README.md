@@ -7,19 +7,20 @@ My name is María Fernanda Hernández and I'm a fullstack software engineer~ I'm
 
 #### 📚 Personal Knowldge / Tech Stack
 <ul>
-<li>Tech: Node.Js, Javascript, React, Redux, Git, Express, RESTful API, HTML5, Tone.js, PostgresSQL, Sockets.io, Heroku, C#, CSS, Premiere, Mocha, Chai, JQuery, Flatted, SweetAlert
+<li>Tech: Node.Js, Javascript, React, Redux, Git, Express, RESTful API, HTML5, Tone.js, PostgresSQL, Sockets.io, Heroku, C#, CSS, Premiere, Mocha, Chai, JQuery, Flatted, SweetAlert, ClassNames
 <li>Languages: English, Spanish, French (all three fluent), Japanese (beginner)
 <li>Art: Maya with Arnold Renderer, Unity Engine, Realflow, Adobe After Effects, Premiere Pro, Photoshop, Blender, Lens Studio, Textiles, Painting
 </ul>
 
 #### ⛷ Current Endeavors
-These days I am studying algorithms, creating a small App, and learning the Three.js library.
+These days I am studying algorithms, creating a small app called On The Way!, and learning the Three.js library.
 <p></p>
 <p></p>
 
 #### ⚔️ Past Projects
 <ul>
 <li>
+<a href= "https://github.com/mafer-mafer/otw">On The Way!</a>- a web app for card collectors to keep track of their purchases and trades (currently being built!)</li>
 <a href= "https://github.com/PIKACHU-PACK/synth-city">SynthCity</a>- a multiplayer collaborative music-making game.</li>
 <li><a href= "https://github.com/mafer-mafer/amihome">am i hOME?</a>- a first person 3D exploration game relating to the Alice in Wonderland Syndrome.</li>
 <li><a href= "https://github.com/sweet-dream-team/grace-shopper">Dreamporium</a>- an eCommerce website.</li>
