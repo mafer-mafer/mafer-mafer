@@ -13,14 +13,13 @@ My name is María Fernanda Hernández and I'm a fullstack software engineer~ I'm
 </ul>
 
 #### ⛷ Current Endeavors
-These days I am studying algorithms, creating a small app called On The Way!, and learning the Three.js library.
+These days I am studying algorithms and creating <a href= "https://github.com/mafer-mafer/otw">On The Way!</a>, a web app for card collectors to keep track of their incoming purchases and trades.
 <p></p>
 <p></p>
 
 #### ⚔️ Past Projects
 <ul>
 <li>
-<a href= "https://github.com/mafer-mafer/otw">On The Way!</a>- a web app for card collectors to keep track of their purchases and trades (currently being built!)</li>
 <a href= "https://github.com/PIKACHU-PACK/synth-city">SynthCity</a>- a multiplayer collaborative music-making game.</li>
 <li><a href= "https://github.com/mafer-mafer/amihome">am i hOME?</a>- a first person 3D exploration game relating to the Alice in Wonderland Syndrome.</li>
 <li><a href= "https://github.com/sweet-dream-team/grace-shopper">Dreamporium</a>- an eCommerce website.</li>
